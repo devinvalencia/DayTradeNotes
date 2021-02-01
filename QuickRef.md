@@ -5,6 +5,7 @@
     Cool
   #### Header4 (Normal)
     Cool
+<!-- Header has to be indented first to make box for sub text -->
 
 [Page Link](worksheet.md#sections)
 <!-- Link other worksheets and sections>
@@ -31,5 +32,7 @@ if (condition) {
 |---|---|---| 
 |cell1|cell2|cell3|
 
+<!--- Image -->
+![James Quick](https://miro.medium.com/max/2400/1*f6H2kZmrDkrjGys_rGcQpw.png) 
 
 
