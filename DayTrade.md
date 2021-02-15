@@ -26,7 +26,7 @@
   - High Demand, Low Supply
     - This can occur because of news
     - Dont use news for trading, just charts
-## **Criterea for Stock**
+## **Critirea for Stock**
   - Low Float (100 mil or lower)
   - High Relative Volume
   - $1 - $10 share cost
@@ -96,7 +96,7 @@ S & R lines can be diagnole on down trending or uptrending stocks
 
 Use half & whole values to set
 
-**Only trade around Daily S & R**
+## **Only trade around Daily S & R, NOT SAME DAY ONES**
 
 Use 1 min to get faster read during trade days
 Use 5 min to get read on S & R
@@ -117,7 +117,7 @@ This finds support after breakout, the upside L (called Bullflag)
 
 ---
 
->## **GAPS** - When a stock opens much higher or lower than the previous's day's close
+>### **GAPS** - When a stock opens much higher or lower than the previous's day's close
 
 ## Once price reaches to INSIDE GAP, the prices rise up to fill the gap, top of gap is resistance and bottom is support
 ---
@@ -139,4 +139,89 @@ Stocks tend to ride or bounce off of MA in intra-day and daily action
     - Need to MAP out S&R's from MAs on Daily charts + S&R's from swings! 
     - Use 50, 100 & 200 MA for dailys.
     - Ignore stocks with lots of resistnace overhead?
+
+# Section 5 - Placing Orders
+
+- Need buy from someone selling
+
+- Need to sell from soneone who wants to buy @ your selling price
+
+Whats more important? Getting all filled or price you want?
+
+**Buy/Sell + Market Order** - Share Qty > Price 
+- This is impacted by how many shares are available at desired price, will go to next best, executed immidiatley
+-  Price slippage, when market order picks up stocks at next best price that is much higher than desired
+-  Low volume (less liquid)
+
+**Buy/Sell + Limit Order** - Price > Share Qty
+- In buyer situation, this will not execute until price is found, but share qty will not be guranteed
+
+**Buy/Sell + Stop Loss (Stop)** - Will turn order into market order once trigger reached
+- In sell, stop price is trigger, what price stocks are sold at are determined by what people are willing to pay, but all stocks will be sold regardless if only 500 people will buy at price X + 500 @ price y
+
+**Buy/Sell + Stop Limit** - Will turn order into limit order, but will turn order into limit order at price trigger
+  - In sell, order will not execute until price, but guranteed stop price BUT not the stock qty
+  - Not a good loss protection because if only partial amount sold to other buyers at your stop price, then still stuck with rest and back at square one
+  - Good for using to Buy when stock at breakout area, since this will be the new support and the limmit order gurantees you will get at least partial stocks at this price
+
+**HotKeys** - Beneficial when needing to move quickly
+
+# Section 6 - How to Read Level
+
+# Section 7 - Risk Management
+- Need to think about how much you can lose with each trade FIRST
+- The quicker a loser sold, then move on to next, dont hold on too long
+
+![img](Images\RiskReawrdRatio.PNG)
+
+- Will be wrong over half the time
+- Your win rate is determined how often you are right
+      
+      Example) Have 1:2 ratio allows you to break even only if right 33% of the time
+      Example) Risking $100 to make $200, this is a 1:2 Risk:Reward ratio
+
+**Profit Target should be AT LEAST same amount as max loss (1:1)**
+
+**Stop Loss** - Use to protect loss, Market Order, Put 
+
+- **Fix max loss per trade, fix max loss per day**
+    - Makes easier to accept loser, needs to be amount okay with
+    - Setup way to shut broker app down if max day loss hit
+- "Its not about how much you make, about how much you DONT lose"
+
+      Examples)
+      For Long positions, put right underneath strong supports
+      For Short positions, (shorting), put right above resistance
+
+## Important
+
+### ***6 Step Risk Calculation***
+    Support Level = $10
+
+    Max Risk: $100
+    Stop Loss: $9.90
+    Entry Price: $10.10
+    Risk: (Entry - Exit) = $0.20
+    Exit Win? = Entry + (Risk * 2) = $10.50
+    Share Size: $100 / $0.20 = 500 Shares
+
+1) Determine max trade risk = How much willing to lose on trade
+2) Determine stop loss price = Below support
+3) Determine entry price = Needs to be slightly above support
+   1) How much do you want to risk? 
+   2) Risk + Support line = Will determine entry price!!!
+4) What is the risk? = Entry Price - Stop Loss Price
+5) Will stock rise at least double of risk?
+   1) If not, don't enter
+   2) If resistance far from double needed, then liklier, dont take if resistance close to needed double amount or if double not possible
+6) Determine share size = Max Trade Loss / (Entry Price - Stop Loss Price)
+
+
+## Winning Trades
+
+1) Sell enough to double
+2) Then if you think its going higher, sell half
+3) Set new stop loss at where you sold the half so as to break even
+4) If you can catch downtrend, sell before stop hit
+
 

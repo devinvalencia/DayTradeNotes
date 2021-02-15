@@ -1,0 +1,21 @@
+https://tickertape.tdameritrade.com/tools/papermoney-stock-market-simulator-16834
+
+Analytical Trading
+Day Trading vs Swing Trade
+Setup Support & Resistance Lines
+Buy at resistance breakout, set as new support?
+Use scanners to show when big investors are about to make stock jump up.
+
+Volume - Total shares sold at momment
+Float - How much risk reward, total stocks out there
+	- The less shares there are, more voalitle
+
+Look for Low float and high volume
+
+Scanning types - Premarket scanning, Use think or swim TD ameritrade
+
+Gap Scanning
+Momentmum Screening
+
+
+
